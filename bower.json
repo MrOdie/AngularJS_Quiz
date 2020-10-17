@@ -1,0 +1,19 @@
+{
+  "name": "angular-seed",
+  "description": "A starter project for AngularJS",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "^3.5.1"
+  }
+}

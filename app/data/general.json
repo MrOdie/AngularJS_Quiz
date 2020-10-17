@@ -1,0 +1,482 @@
+[
+    {
+        "question": "Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
+        "correct_answer": "Ed Sheeran - I See Fire",
+        "choice": [
+            "Ed Sheeran - I See Fire",
+            "Marvin Gaye - Sexual Healing",
+            "Coldplay - Midnight",
+            "a-ha - Take On Me"
+        ]
+    },
+    {
+        "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+        "correct_answer": "Richard Branson",
+        "choice": [
+            "Richard Branson",
+            "Alan Sugar",
+            "Donald Trump",
+            "Bill Gates"
+        ]
+    },
+    {
+        "question": "What is the most common surname Wales?",
+        "correct_answer": "Jones",
+        "choice": [
+            "Jones",
+            "Williams",
+            "Davies",
+            "Evans"
+        ]
+    },
+    {
+        "question": "Video streaming website YouTube was purchased in it's entirety by Facebook for US$1.65 billion in stock.",
+        "correct_answer": "False",
+        "choice": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "question": "How would one say goodbye in Spanish?",
+        "correct_answer": "Adi&oacute;s",
+        "choice": [
+            "Adi&oacute;s",
+            " Hola",
+            "Au Revoir",
+            "Salir"
+        ]
+    },
+    {
+        "question": "Gumbo is a stew that originated in Louisiana.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What is &quot;dabbing&quot;?",
+        "correct_answer": "A dance",
+        "choice": [
+            "A dance",
+            "A medical procedure",
+            "A sport",
+            "A language"
+        ]
+    },
+    {
+        "question": "When was &quot;YouTube&quot; founded?",
+        "correct_answer": "February 14, 2005",
+        "choice": [
+            "February 14, 2005",
+            "May 22, 2004",
+            "September 12, 2005",
+            "July 19, 2009"
+        ]
+    },
+    {
+        "question": "The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
+        "correct_answer": "False",
+        "choice": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "question": "You are allowed to sell your soul on eBay.",
+        "correct_answer": "False",
+        "choice": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+        "correct_answer": "Bullfighting",
+        "choice": [
+            "Bullfighting",
+            "Fiestas",
+            "Flamenco",
+            "Mariachi"
+        ]
+    },
+    {
+        "question": "What is on display in the Madame Tussaud's museum in London?",
+        "correct_answer": "Wax sculptures",
+        "choice": [
+            "Wax sculptures",
+            "Designer clothing",
+            "Unreleased film reels",
+            "Vintage cars"
+        ]
+    },
+    {
+        "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+        "correct_answer": "Tandoori",
+        "choice": [
+            "Tandoori",
+            "Biryani",
+            "Pani puri",
+            "Tiki masala"
+        ]
+    },
+    {
+        "question": "What is the Swedish word for &quot;window&quot;?",
+        "correct_answer": "F&ouml;nster",
+        "choice": [
+            "F&ouml;nster",
+            "H&aring;l",
+            "Sk&auml;rm",
+            "Ruta"
+        ]
+    },
+    {
+        "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+        "correct_answer": "Feiji",
+        "choice": [
+            "Feiji",
+            "Qiche",
+            "Zongxian",
+            "Huojian"
+        ]
+    },
+    {
+        "question": "&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Disney's Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+        "correct_answer": "Harry",
+        "choice": [
+            "Harry",
+            "Gus",
+            "Phineas",
+            "Ezra"
+        ]
+    },
+    {
+        "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+        "correct_answer": "India",
+        "choice": [
+            "India",
+            "United States of America",
+            "Soviet Union",
+            "Poland"
+        ]
+    },
+    {
+        "question": "The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.",
+        "correct_answer": "False",
+        "choice": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "question": "In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Kissing someone for one minute burns about 2 calories.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Sitting for more than three hours a day can cut two years off a person's life expectancy.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "correct_answer": "Turkish",
+        "choice": [
+            "Turkish",
+            "German",
+            "Danish",
+            "Polish"
+        ]
+    },
+    {
+        "question": "Which of the following carbonated soft drinks were introduced first?",
+        "correct_answer": "Dr. Pepper",
+        "choice": [
+            "Dr. Pepper",
+            "Coca-Cola",
+            "Sprite",
+            "Mountain Dew"
+        ]
+    },
+    {
+        "question": "What direction does the Statue of Liberty face?",
+        "correct_answer": "Southeast",
+        "choice": [
+            "Southeast",
+            "Southwest",
+            "Northwest",
+            "Northeast"
+        ]
+    },
+    {
+        "question": "What do the letters of the fast food chain KFC stand for?",
+        "correct_answer": "Kentucky Fried Chicken",
+        "choice": [
+            "Kentucky Fried Chicken",
+            "Kentucky Fresh Cheese",
+            "Kibbled Freaky Cow",
+            "Kiwi Food Cut"
+        ]
+    },
+    {
+        "question": "Which of the General Mills Corporation's monster cereals was the last to be released in the 1970's?",
+        "correct_answer": "Fruit Brute",
+        "choice": [
+            "Fruit Brute",
+            "Count Chocula",
+            "Franken Berry",
+            "Boo-Berry"
+        ]
+    },
+    {
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "correct_answer": "Twilight Zone Tower of Terror",
+        "choice": [
+            "Twilight Zone Tower of Terror",
+            "The Haunted Mansion",
+            "Pirates of the Caribbean",
+            "Peter Pan's Flight"
+        ]
+    },
+    {
+        "question": "What was the first ever London Underground line to be built?",
+        "correct_answer": "Metropolitan Line",
+        "choice": [
+            "Metropolitan Line",
+            "Circle Line",
+            "Bakerloo Line",
+            "Victoria Line"
+        ]
+    },
+    {
+        "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+        "correct_answer": "28%",
+        "choice": [
+            "28%",
+            "13%",
+            "20%",
+            "7%"
+        ]
+    },
+    {
+        "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+        "correct_answer": "I came, I saw, I conquered",
+        "choice": [
+            "I came, I saw, I conquered",
+            "See no evil, hear no evil, speak no evil",
+            "Life, liberty, and happiness",
+            "Past, present, and future"
+        ]
+    },
+    {
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "correct_answer": "2004",
+        "choice": [
+            "2004",
+            "2005",
+            "2003",
+            "2006"
+        ]
+    },
+    {
+        "question": "Who invented Pastafarianism?",
+        "correct_answer": "Bobby Henderson",
+        "choice": [
+            "Bobby Henderson",
+            "Eric Tignor",
+            "Bill Nye",
+            "Zach Soldi"
+        ]
+    },
+    {
+        "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+        "correct_answer": "Jumping over an office chair",
+        "choice": [
+            "Jumping over an office chair",
+            "Jumping backwards over a desk",
+            "Standing on his head",
+            "Typing on a keyboard during a handstand"
+        ]
+    },
+    {
+        "question": "What is real haggis made of?",
+        "correct_answer": "Sheep's Heart, Liver and Lungs",
+        "choice": [
+            "Sheep's Heart, Liver and Lungs",
+            "Sheep's Heart, Kidneys and Lungs",
+            "Sheep's Liver, Kidneys and Eyes",
+            "Whole Sheep"
+        ]
+    },
+    {
+        "question": "Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+        "correct_answer": "Traffic Collision Avoidance System",
+        "choice": [
+            "Traffic Collision Avoidance System",
+            "Traffic Communication Alert System",
+            "Traffic Configuration Alignment System",
+            "Traffic Call-sign Abbreviation System"
+        ]
+    },
+    {
+        "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+        "correct_answer": "Libra",
+        "choice": [
+            "Libra",
+            "Gemini",
+            "Taurus",
+            "Capricorn"
+        ]
+    },
+    {
+        "question": "Earl Grey tea is black tea flavoured with what?",
+        "correct_answer": "Bergamot oil",
+        "choice": [
+            "Bergamot oil",
+            "Lavender",
+            "Vanilla",
+            "Honey"
+        ]
+    },
+    {
+        "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+        "correct_answer": "You smell extremely unpleasant.",
+        "choice": [
+            "You smell extremely unpleasant.",
+            "You are out of shape\/weak.",
+            "Your appearance is repulsive.",
+            "You are incomprehensible\/an idiot."
+        ]
+    },
+    {
+        "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+        "correct_answer": "Kilt",
+        "choice": [
+            "Kilt",
+            "Skirt",
+            "Dress",
+            "Rhobes"
+        ]
+    },
+    {
+        "question": "Nephelococcygia is the practice of doing what?",
+        "correct_answer": "Finding shapes in clouds",
+        "choice": [
+            "Finding shapes in clouds",
+            "Sleeping with your eyes open",
+            "Breaking glass with your voice",
+            "Swimming in freezing water"
+        ]
+    },
+    {
+        "question": "What is the Zodiac symbol for Gemini?",
+        "correct_answer": "Twins",
+        "choice": [
+            "Twins",
+            "Fish",
+            "Scales",
+            "Maiden"
+        ]
+    },
+    {
+        "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+        "correct_answer": "Plum",
+        "choice": [
+            "Plum",
+            "Apple",
+            "Peach",
+            "Pear"
+        ]
+    },
+    {
+        "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+        "correct_answer": "Horse",
+        "choice": [
+            "Horse",
+            "Weave",
+            "Guitar",
+            "Boat"
+        ]
+    },
+    {
+        "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+        "correct_answer": "M3",
+        "choice": [
+            "M3",
+            "Colt 9mm",
+            "Thompson",
+            "MAC-10"
+        ]
+    },
+    {
+        "question": "Located in Chile, El Teniente is the world's largest underground mine for what metal?",
+        "correct_answer": "Copper",
+        "choice": [
+            "Copper",
+            "Iron",
+            "Nickel",
+            "Silver"
+        ]
+    },
+    {
+        "question": "When one is &quot;envious&quot;, they are said to be what color?",
+        "correct_answer": "Green",
+        "choice": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    {
+        "question": "Which of these cities does NOT have a United States Minting location?",
+        "correct_answer": "St. Louis, MO",
+        "choice": [
+            "St. Louis, MO",
+            "San Fransisco, CA",
+            "Philidelphia, PA",
+            "West Point, NY"
+        ]
+    },
+    {
+        "question": "Who is the author of Jurrasic Park?",
+        "correct_answer": "Michael Crichton",
+        "choice": [
+            "Michael Crichton",
+            "Peter Benchley",
+            "Chuck Paluhniuk",
+            "Irvine Welsh"
+        ]
+    }
+]

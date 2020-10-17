@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" ng-app="myApp" class="no-js">
+	<!--<![endif]-->
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title>My AngularJS App</title>
+		<meta name="description" content="" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link
+			rel="stylesheet"
+			href="lib/html5-boilerplate/dist/css/normalize.css"
+		/>
+		<link rel="stylesheet" href="lib/html5-boilerplate/dist/css/main.css" />
+		<link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="app.css" />
+	</head>
+	<body>
+		<header>
+			<nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
+				<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<a class="navbar-brand" href="#">Brand</a>
+					</div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div
+						class="collapse navbar-collapse"
+						id="bs-example-navbar-collapse-1"
+					>
+						<ul class="nav navbar-nav">
+							<li><a href="#!/view1">view1</a></li>
+							<li><a href="#!/view2">view2</a></li>
+							<li><a href="#!/questions">Questions</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+		</header>
+
+		<section id="app">
+      <div class="container">
+		  <div class="row">
+			  <div class="col-md-8 col-md-offset-2 col-xs-12">
+				  <section ng-view></section>
+			  </div>
+		  </div>
+      </div>
+		</section>
+
+		<script src="lib/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+
+		<script src="lib/angular/angular.js"></script>
+		<script src="lib/angular-route/angular-route.js"></script>
+		<script src="lib/angular-resource/angular-resource.js"></script>
+
+		<script src="app.module.js"></script>
+		<script src="view1/view1.component.js"></script>
+		<script src="view2/view2.component.js"></script>
+		<script src="questions/questions.component.js"></script>
+		<script src="results/results.component.js"></script>
+
+		<script src="core/version/version.js"></script>
+		<script src="core/services/service.js"></script>
+		<script src="core/questions/questions.module.js"></script>
+		<script src="core/questions/questions.service.js"></script>
+		<script src="core/version/version-directive.js"></script>
+		<script src="core/version/interpolate-filter.js"></script>
+
+		<script src="lib/jquery/dist/jquery.min.js"></script>
+		<script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
+	</body>
+</html>

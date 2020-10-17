@@ -1,0 +1,159 @@
+<section ng-init="stupidScopeRulez={}">
+	<article class="intro-diff" ng-if="!pickDifficulty">
+		<div class="text-center">
+			<h2>Select Your Difficulty Level</h2>
+		</div>
+		<div class="text-center btn-container">
+			<button
+				class="btn btn-success"
+				ng-click="begin($event)"
+				data-difficulty="testing"
+			>
+				Testing
+			</button>
+			<button
+				class="btn btn-success"
+				ng-click="begin($event)"
+				data-difficulty="easy"
+			>
+				Easy
+			</button>
+			<button
+				class="btn btn-warning"
+				ng-click="begin($event)"
+				data-difficulty="medium"
+			>
+				Medium
+			</button>
+			<button
+				class="btn btn-danger"
+				ng-click="begin($event)"
+				data-difficulty="hard"
+			>
+				Hard
+			</button>
+		</div>
+	</article>
+
+	<article class="intro-cat" ng-if="pickDifficulty && !category">
+		<div class="text-center">
+			<h2>Select Your Category</h2>
+		</div>
+
+		<div class="text-center btn-container">
+			<button
+				class="btn btn-success"
+				ng-click="cat($event)"
+				data-cat="entertainment"
+			>
+				Entertainment
+			</button>
+			<button
+				class="btn btn-success"
+				ng-click="cat($event)"
+				data-cat="mythology"
+			>
+				Mythology
+			</button>
+			<button
+				class="btn btn-success"
+				ng-click="cat($event)"
+				data-cat="computers"
+			>
+				Computers
+			</button>
+			<button class="btn btn-success" ng-click="cat($event)" data-cat="sports">
+				Sports
+			</button>
+			<button class="btn btn-success" ng-click="cat($event)" data-cat="film">
+				Film
+			</button>
+		</div>
+	</article>
+
+	<article ng-if="pickDifficulty && category">
+		<h1 class="text-center">Quiz Game</h1>
+		<div class="buttons__container">
+			<button
+				class="btn btn-danger"
+				ng-click="previous($event)"
+				data-slide="prev"
+			>
+				&lsaquo; Previous Question
+			</button>
+			<h3 class="text-white">
+				{{num}} | {{ limit.length }}
+			</h3>
+			<button
+				ng-if="num !== limit.length"
+				ng-disabled="isDisabled"
+				class="btn btn-success"
+				ng-click="next($event)"
+				data-slide="next"
+			>
+				Next Question &rsaquo;
+			</button>
+			<button
+				ng-if="num === limit.length"
+				ng-disabled="isDisabled"
+				class="btn btn-primary"
+				data-toggle="modal"
+				data-target="#myModal"
+				ng-click="finish()"
+			>
+				View Results
+			</button>
+		</div>
+		<div class="question__container" ng-repeat="question in limit">
+			<div ng-if="num === ($index + 1)">
+				<h3>{{num}}). {{ question.question }}</h3>
+				<div
+					class="answers"
+					ng-repeat="choice in question.choice | orderBy: random"
+				>
+					<input
+						id="{{'choice_' + $index + '_' + choice}}"
+						type="radio"
+						name="{{'choice_' + $index}}"
+						value="{{choice}}"
+						ng-change="selectedAnswer(question, choice)"
+						ng-model="stupidScopeRulez.question.selected"
+					/>
+					<label
+						for="{{'choice_' + $index + '_' + choice}}"
+						class="radio option"
+					>
+						{{ choice }}
+					</label>
+				</div>
+			</div>
+		</div>
+	</article>
+
+	<div
+		class="modal fade"
+		id="myModal"
+		tabindex="-1"
+		role="dialog"
+		aria-labelledby="myModalLabel"
+	>
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button
+						type="button"
+						class="close"
+						data-dismiss="modal"
+						aria-label="Close"
+					>
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body text-center">
+					<h2 class="modal-title" id="myModalLabel">Your Score:</h2>
+					<h3>{{ score }} / {{ range }} | {{ finalScore + '%'}}</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

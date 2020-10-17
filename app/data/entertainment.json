@@ -1,0 +1,486 @@
+[
+    {
+        "question": "Peter Molyneux was the founder of Bullfrog Productions.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Which of these TrackMania environments was NOT in the original game?",
+        "correct_answer": "Bay",
+        "choice": [
+            "Desert",
+            "Bay",
+            "Snow",
+            "Rally"
+        ]
+    },
+    {
+        "question": "What's the famous line Vaas says in \"Far Cry 3\"?",
+        "correct_answer": "Did I ever tell you the definition of Insanity?",
+        "choice": [
+            "Have I failed to entertain you?",
+            "You're my b*tch!",
+            "Maybe your best course...would be to tread lightly.",
+            "Did I ever tell you the definition of Insanity?"
+        ]
+    },
+    {
+        "question": "What is the name of the virus that infected New York in Tom Clancy's The Division?",
+        "correct_answer": "Dollar Flu",
+        "choice": [
+            "Dollar Flu",
+            "Ebola",
+            "Red Poison",
+            "Smallpox"
+        ]
+    },
+    {
+        "question": "The most graphically violent game to precede the creation of the ESRB (Entertainment Software Rating Board) was...",
+        "correct_answer": "Mortal Kombat",
+        "choice": [
+            "Duke Nukem",
+            "Mortal Kombat",
+            "Resident Evil",
+            "Doom"
+        ]
+    },
+    {
+        "question": "What was the name of the cancelled sequel of Team Fortress?",
+        "correct_answer": "Team Fortress 2: Brotherhood of Arms",
+        "choice": [
+            "Team Fortress 2: Brotherhood of Arms",
+            "Team Fortress 2: Desert Mercenaries",
+            "Team Fortress 2: Operation Gear Grinder",
+            "Team Fortress 2: Return to Classic"
+        ]
+    },
+    {
+        "question": "What is the name of the main healing item in Dark Souls?",
+        "correct_answer": "Estus Flask",
+        "choice": [
+            "Health Potion",
+            "Orange Juice",
+            "Ashen Flask",
+            "Estus Flask"
+        ]
+    },
+    {
+        "question": "What is the world's first video game console?",
+        "correct_answer": "Magnavox Odyssey",
+        "choice": [
+            "Coleco Telstar",
+            "Magnavox Odyssey",
+            "Nintendo Color TV Game",
+            "Atari 2600"
+        ]
+    },
+    {
+        "question": "Faust is a playable character in \"Guilty Gear Xrd Revelator\".",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "In Grand Theft Auto V, what was Michael De Santa's former surname?",
+        "correct_answer": "Townley",
+        "choice": [
+            "De Santos",
+            "Watson",
+            "Townley",
+            "Simpson"
+        ]
+    },
+    {
+        "question": "What is the name the location-based augmented reality game developed by Niantic before Pok&eacute;mon GO?",
+        "correct_answer": "Ingress",
+        "choice": [
+            "Ingress",
+            "Aggress",
+            "Regress",
+            "Digress"
+        ]
+    },
+    {
+        "question": "Which of the following Pok&eacute;mon games released first?",
+        "correct_answer": "Pok&eacute;mon Crystal",
+        "choice": [
+            "Pok&eacute;mon Crystal",
+            "Pok&eacute;mon Platinum",
+            "Pok&eacute;mon FireRed",
+            "Pok&eacute;mon Black"
+        ]
+    },
+    {
+        "question": "Tony Hawk's Pro Skater was released in 1999.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Which Mario spin-off game did Waluigi make his debut?",
+        "correct_answer": "Mario Tennis",
+        "choice": [
+            "Mario Party 3",
+            "Mario Tennis",
+            "Mario Kart: Double Dash!!",
+            "Mario Golf: Toadstool Tour"
+        ]
+    },
+    {
+        "question": "Who is the founder of Team Fortress 2's fictional company \"Mann Co\"?",
+        "correct_answer": "Zepheniah Mann",
+        "choice": [
+            "Cave Johnson",
+            "Wallace Breem",
+            "Zepheniah Mann",
+            "Saxton Hale"
+        ]
+    },
+    {
+        "question": "By how many minutes are you late to work in \"Half-Life\"?",
+        "correct_answer": "30",
+        "choice": [
+            "5",
+            "60",
+            "15",
+            "30"
+        ]
+    },
+    {
+        "question": "Capcom's survival horror title Dead Rising, canonically starts on what day of September 2006?",
+        "correct_answer": "September 19th",
+        "choice": [
+            "September 19th",
+            "September 21st",
+            "September 30th",
+            "September 14th"
+        ]
+    },
+    {
+        "question": "In Team Fortress 2, being disguised as a scout or medic results in a speed boost.",
+        "correct_answer": "False",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What company develops the Rock Band series of rhythm games?",
+        "correct_answer": "Harmonix",
+        "choice": [
+            "Activision",
+            "Konami",
+            "Electronic Arts",
+            "Harmonix"
+        ]
+    },
+    {
+        "question": "When was Final Fantasy XV released?",
+        "correct_answer": "November 29th, 2016",
+        "choice": [
+            "October 25th, 2016",
+            "December 31th, 2016",
+            "November 29th, 2016",
+            "November 30th, 2016"
+        ]
+    },
+    {
+        "question": "In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist's \"Ghost\"?",
+        "correct_answer": "Nolan North",
+        "choice": [
+            "John DiMaggio",
+            "Mark Hamill",
+            "Nolan North",
+            " Troy Baker"
+        ]
+    },
+    {
+        "question": "What's the name of the halloween-related Sims 4 Stuff Pack released September 29th, 2015?",
+        "correct_answer": "Spooky Stuff",
+        "choice": [
+            "Ghosts n' Ghouls",
+            "Nerving Nights",
+            "Fearful Frights",
+            "Spooky Stuff"
+        ]
+    },
+    {
+        "question": "In the game Call of Duty, what is the last level where you play as an American soldier?",
+        "correct_answer": "Festung Recogne",
+        "choice": [
+            "Ste. Mere-Eglise (Day)",
+            "Festung Recogne",
+            "Chateau",
+            "Brecourt"
+        ]
+    },
+    {
+        "question": "The names of Tom Nook's cousins in the Animal Crossing franchise are named \"Timmy\" and \"Jimmy\".",
+        "correct_answer": "False",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Which Elite Four member from the first generation of Pok&eacute;mon became the champion in the next generation?",
+        "correct_answer": "Lance",
+        "choice": [
+            "Agatha",
+            "Bruno",
+            "Lance",
+            "Lorelei"
+        ]
+    },
+    {
+        "question": "Which of these Pok&eacute;mon cannot learn Surf?",
+        "correct_answer": "Arbok",
+        "choice": [
+            "Linoone",
+            "Tauros",
+            "Nidoking",
+            "Arbok"
+        ]
+    },
+    {
+        "question": "In the game \"Persona 4\", what is the canonical name of the protagonist?",
+        "correct_answer": "Yu Narukami",
+        "choice": [
+            "Chino Mashido",
+            "Tunki Sunada",
+            "Yu Narukami",
+            "Masaki Narinaka"
+        ]
+    },
+    {
+        "question": "What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into \"Super Smash Bros.\"?",
+        "correct_answer": "Dragon King: The Fighting Game",
+        "choice": [
+            "Nintendo Legends: Fight!",
+            "Martial Arts: King of the Hill",
+            "Aerial Warriors: Supreme Battle",
+            "Dragon King: The Fighting Game"
+        ]
+    },
+    {
+        "question": "In Terraria, what does the Wall of Flesh not drop upon defeat?",
+        "correct_answer": "Picksaw",
+        "choice": [
+            "Picksaw",
+            "Pwnhammer",
+            "Breaker Blade",
+            "Laser Rifle"
+        ]
+    },
+    {
+        "question": "Who stars in Brutal Legend?",
+        "correct_answer": "Jack Black",
+        "choice": [
+            "Kanye West",
+            "Lemmy",
+            "Jack Black",
+            "Ozzy Osbourne"
+        ]
+    },
+    {
+        "question": "David Baszucki was a co-founder of ROBLOX Corporation.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "How many voice channels does the Super Nintendo Entertainment System support?",
+        "correct_answer": "8",
+        "choice": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ]
+    },
+    {
+        "question": "One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?",
+        "correct_answer": "DMC",
+        "choice": [
+            "Noise",
+            "Triangle",
+            "DMC",
+            "Square"
+        ]
+    },
+    {
+        "question": "\"Gimmick!\" is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
+        "correct_answer": "FME-7",
+        "choice": [
+            "VRC7",
+            "VRC6",
+            "MMC5",
+            "FME-7"
+        ]
+    },
+    {
+        "question": "In Heroes of the Storm, the Cursed Hollow map gimmick requires players to kill the undead to curse the enemy team.",
+        "correct_answer": "False",
+        "choice": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "In the \"Little Lost Girl\" Easter Egg in Call of Duty: Black Ops II, what's the last step required for the achievement?",
+        "correct_answer": "Raise Hell",
+        "choice": [
+            "Freedom",
+            "Skewer the Winged Beast",
+            "Ascend from Darkness",
+            "Raise Hell"
+        ]
+    },
+    {
+        "question": "When was \"System Shock\" released?",
+        "correct_answer": "1994",
+        "choice": [
+            "1995",
+            "2000",
+            "1998",
+            "1994"
+        ]
+    },
+    {
+        "question": "Which \"Perk-A-Cola\" in \"Call Of Duty: Zombies\" was \"reworked\" in \"Call of Duty: Black Ops II\"?",
+        "correct_answer": "Double Tap Root Beer",
+        "choice": [
+            "Who's Who",
+            "Juggernog",
+            "Mule Kick",
+            "Double Tap Root Beer"
+        ]
+    },
+    {
+        "question": "In \"Call Of Duty: Zombies\", what is the name of Samantha Maxis' dog?",
+        "correct_answer": "Fluffy",
+        "choice": [
+            "Fluffy",
+            "Baxter",
+            "Fido",
+            "Henry"
+        ]
+    },
+    {
+        "question": "In the \"Call Of Duty: Zombies\" map \"Origins\", how many numbered power generators are there?",
+        "correct_answer": "6",
+        "choice": [
+            "8",
+            "5",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "question": "What is the boss round featured in the \"Call Of Duty: Zombies\" map \"Five\"?",
+        "correct_answer": "The Pentagon Thief",
+        "choice": [
+            "Hellhounds",
+            "Jumping Jacks",
+            "Napalm Zombie",
+            "The Pentagon Thief"
+        ]
+    },
+    {
+        "question": "In \"Call Of Duty: Zombies\", completing which map's main easter egg will reward you with the achievement, \"High Maintenance\"?",
+        "correct_answer": "Die Rise",
+        "choice": [
+            "Die Rise",
+            "Mob Of The Dead",
+            "Origins",
+            "Ascension"
+        ]
+    },
+    {
+        "question": "In \"Call Of Duty: Zombies\", which map introduced the perk \"PhD Flopper\"?",
+        "correct_answer": "Ascension",
+        "choice": [
+            "Ascension",
+            "Moon",
+            "Call Of The Dead",
+            "Die Rise"
+        ]
+    },
+    {
+        "question": "What animal is featured in \"Bloons TD Battles\"?",
+        "correct_answer": "Monkeys",
+        "choice": [
+            "Alligators",
+            "Monkeys",
+            "Pigeons",
+            "Lizards"
+        ]
+    },
+    {
+        "question": "In the beginning of the game \"Sonic Adventure\", what color Chaos Emerald does Tails own?",
+        "correct_answer": "Purple",
+        "choice": [
+            "Red",
+            "Green",
+            "Purple",
+            "Blue"
+        ]
+    },
+    {
+        "question": "In \"Team Fortress 2\", what is the fastest taunt kill that can be pulled off?",
+        "correct_answer": "Showdown",
+        "choice": [
+            "Showdown",
+            "Hadouken",
+            "Organ Grinder",
+            "Skewer"
+        ]
+    },
+    {
+        "question": "In the game \"Fire Emblem: Shadow Dragon\", what is the central protagonist's name?",
+        "correct_answer": "Marth",
+        "choice": [
+            "Roy",
+            "Eliwood",
+            "Robin",
+            "Marth"
+        ]
+    },
+    {
+        "question": "What Touhou Project character's first ever appearance was as a midboss in the eighth game, Imperishable Night?",
+        "correct_answer": "Tewi Inaba",
+        "choice": [
+            "Mystia Lorelei",
+            "Kaguya Houraisan",
+            "Tewi Inaba",
+            "Rumia"
+        ]
+    },
+    {
+        "question": "In the \"Metal Gear Solid\" series, what's the name of Solid Snake's brother?",
+        "correct_answer": "Liquid Snake",
+        "choice": [
+            "Kulus Snake",
+            "Billy Snake",
+            "Gilur Snake",
+            "Liquid Snake"
+        ]
+    },
+    {
+        "question": "The shotgun appears in every numbered Resident Evil game.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    }
+]

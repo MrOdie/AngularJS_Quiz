@@ -1,0 +1,496 @@
+[
+    {
+        "question": "Which of the following is NOT a quote from the 1942 film Casablanca? ",
+        "correct_answer": "\"Frankly, my dear, I don't give a damn.\"",
+        "choice": [
+            "\"Frankly, my dear, I don't give a damn.\"",
+            "\"Here's lookin' at you, kid.\"",
+            "\"Of all the gin joints, in all the towns, in all the world, she walks into mine...\"",
+            "\"Round up the usual suspects.\""
+        ]
+    },
+    {
+        "question": "Which of the following movies was not based on a novel by Stephen King? ",
+        "correct_answer": "The Thing",
+        "choice": [
+            "The Thing",
+            "Carrie",
+            "Misery",
+            "The Green Mile"
+        ]
+    },
+    {
+        "question": "Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?",
+        "correct_answer": "Harry Potter",
+        "choice": [
+            "Harry Potter",
+            "Ted",
+            "Spy Kids",
+            "Pirates of the Caribbean "
+        ]
+    },
+    {
+        "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+        "correct_answer": "Wilson",
+        "choice": [
+            "Wilson",
+            "Friday",
+            "Jones",
+            "Billy"
+        ]
+    },
+    {
+        "question": "Which animated movie was first to feature a celebrity as a voice actor?",
+        "correct_answer": "Aladdin",
+        "choice": [
+            "Aladdin",
+            "Toy Story",
+            "James and the Giant Peach",
+            "The Hunchback of Notre Dame"
+        ]
+    },
+    {
+        "question": "When was the movie 'Con Air' released?",
+        "correct_answer": "1997",
+        "choice": [
+            "1997",
+            "1985",
+            "1999",
+            "1990"
+        ]
+    },
+    {
+        "question": "In the film \"Interstellar\", how long did they spend on Miller's planet?",
+        "correct_answer": "23 years, 4 months, and 8 days",
+        "choice": [
+            "23 years, 4 months, and 8 days",
+            "15 years, 2 months, and 15 days",
+            "10 months and 6 days",
+            "26 years, 4 months, and 10 days"
+        ]
+    },
+    {
+        "question": "Which retired American football quarterback played himself in 'Ace Ventura: Pet Detective' and 'Little Nicky'?",
+        "correct_answer": "Dan Marino",
+        "choice": [
+            "Dan Marino",
+            "John Elway",
+            "Tom Brady",
+            "Joe Montana"
+        ]
+    },
+    {
+        "question": "Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?",
+        "correct_answer": "Chicago",
+        "choice": [
+            "Chicago",
+            "Dreamgirls",
+            "Cabaret",
+            "All That Jazz"
+        ]
+    },
+    {
+        "question": "In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing spree?",
+        "correct_answer": "Westworld",
+        "choice": [
+            "Westworld",
+            "Runaway",
+            "Android",
+            "The Terminators"
+        ]
+    },
+    {
+        "question": "Which actress danced the twist with John Travolta in 'Pulp Fiction'?",
+        "correct_answer": "Uma Thurman",
+        "choice": [
+            "Uma Thurman",
+            "Kathy Griffin",
+            "Pam Grier",
+            "Bridget Fonda"
+        ]
+    },
+    {
+        "question": "Leonardo DiCaprio won an Oscar for Best Actor in 2004's \"The Aviator\".",
+        "correct_answer": "False",
+        "choice": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+        "correct_answer": "Highlander",
+        "choice": [
+            "Highlander",
+            "Flash Gordon",
+            "Labyrinth",
+            "Howard the Duck"
+        ]
+    },
+    {
+        "question": "This movie contains the quote, \"I feel the need ... the need for speed!\"",
+        "correct_answer": "Top Gun",
+        "choice": [
+            "Top Gun",
+            "Days of Thunder",
+            "The Color of Money",
+            "Cocktail"
+        ]
+    },
+    {
+        "question": "This movie contains the quote, \"Nobody puts Baby in a corner.\"",
+        "correct_answer": "Dirty Dancing",
+        "choice": [
+            "Dirty Dancing",
+            "Three Men and a Baby",
+            "Ferris Bueller's Day Off",
+            "Pretty in Pink"
+        ]
+    },
+    {
+        "question": "What was the first James Bond film?",
+        "correct_answer": "Dr. No",
+        "choice": [
+            "Dr. No",
+            "Goldfinger",
+            "From Russia With Love",
+            "Thunderball"
+        ]
+    },
+    {
+        "question": "What is the name of the Artificial Intelligence system in the 1983 film, \"WarGames\"?",
+        "correct_answer": "War Operation Plan Response",
+        "choice": [
+            "War Operation Plan Response",
+            "Self Evolving Thought Helix",
+            "Master Control Program",
+            "West Campus Analog Computer"
+        ]
+    },
+    {
+        "question": "What did the first moving picture depict?",
+        "correct_answer": "A galloping horse",
+        "choice": [
+            "A galloping horse",
+            "A woman in a dress",
+            "A man walking",
+            "A crackling fire"
+        ]
+    },
+    {
+        "question": "Which iconic character is featured in movies such as \"The Enforcer\", \"Sudden Impact\", and \"The Dead Pool\"?",
+        "correct_answer": "Dirty Harry",
+        "choice": [
+            "Dirty Harry",
+            "Indiana Jones",
+            "James Bond",
+            "Harry Potter"
+        ]
+    },
+    {
+        "question": "In the 1994 movie \"Speed\", what is the minimum speed the bus must go to prevent to bomb from exploding?",
+        "correct_answer": "50 mph",
+        "choice": [
+            "50 mph",
+            "60 mph",
+            "40 mph",
+            "70 mph"
+        ]
+    },
+    {
+        "question": "In what Disney movie can you spot the character \"Pac-Man\" in if you look closely enough in some scenes?",
+        "correct_answer": "Tron",
+        "choice": [
+            "Tron",
+            "Big Hero 6",
+            "Fantasia",
+            "Monsters, Inc."
+        ]
+    },
+    {
+        "question": "In the 1979 British film \"Quadrophenia\" what is the name of the main protagonist?",
+        "correct_answer": "Jimmy Cooper",
+        "choice": [
+            "Jimmy Cooper",
+            "Pete Townshend",
+            "Franc Roddam",
+            "Archie Bunker"
+        ]
+    },
+    {
+        "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+        "correct_answer": "Jackie Earle Haley",
+        "choice": [
+            "Jackie Earle Haley",
+            "Tyler Mane",
+            "Derek Mears",
+            "Gunnar Hansen"
+        ]
+    },
+    {
+        "question": "The 1939 movie \"The Wizard of Oz\" contained a horse that changed color, what material did they use to achieve this effect?",
+        "correct_answer": "Gelatin",
+        "choice": [
+            "Gelatin",
+            "Dye",
+            "Paint",
+            "CGI Effect"
+        ]
+    },
+    {
+        "question": "Who is the main protagonist in, the 1985 film, Back to the Future?",
+        "correct_answer": "Marty McFly",
+        "choice": [
+            "Marty McFly",
+            "Emmett \"Doc\" Brown",
+            "Biff Tannen",
+            "George McFly"
+        ]
+    },
+    {
+        "question": "What was the first movie to ever use a Wilhelm Scream?",
+        "correct_answer": "Distant Drums",
+        "choice": [
+            "Distant Drums",
+            "Treasure of the Sierra Madre",
+            "The Charge at Feather River",
+            "Indiana Jones"
+        ]
+    },
+    {
+        "question": "Who played Sgt. Gordon Elias in 'Platoon' (1986)?",
+        "correct_answer": "Willem Dafoe",
+        "choice": [
+            "Willem Dafoe",
+            "Charlie Sheen",
+            "Matt Damon",
+            "Johnny Depp"
+        ]
+    },
+    {
+        "question": "\"The first rule is: you don't talk about it\" is a reference to which movie?",
+        "correct_answer": "Fight Club",
+        "choice": [
+            "Fight Club",
+            "The Island",
+            "Unthinkable",
+            "American Pie"
+        ]
+    },
+    {
+        "question": "In the 1992 film \"Army of Darkness\", what name does Ash give to his double-barreled shotgun?",
+        "correct_answer": "Boomstick",
+        "choice": [
+            "Boomstick",
+            "Bloomstick",
+            "Blastbranch",
+            "2-Pump Chump"
+        ]
+    },
+    {
+        "question": "In the movie \"Blade Runner\", what is the term used for human-like androids ?",
+        "correct_answer": "Replicants",
+        "choice": [
+            "Replicants",
+            "Cylons",
+            "Synthetics",
+            "Skinjobs"
+        ]
+    },
+    {
+        "question": "In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",
+        "correct_answer": "Beer",
+        "choice": [
+            "Beer",
+            "Fast food",
+            "Food stamps",
+            "They weren't paid"
+        ]
+    },
+    {
+        "question": "The weapon Clint Eastwood uses in \"Dirty Harry\" was a .44 Automag.",
+        "correct_answer": "False",
+        "choice": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+        "correct_answer": "Max Payne",
+        "choice": [
+            "Max Payne",
+            "Alan Wake",
+            "Hitman",
+            "God Of War"
+        ]
+    },
+    {
+        "question": "What is the make and model of the tour vehicles in \"Jurassic Park\" (1993)?",
+        "correct_answer": "1992 Ford Explorer XLT",
+        "choice": [
+            "1992 Ford Explorer XLT",
+            "1992 Toyota Land Cruiser",
+            "1992 Jeep Wrangler YJ Sahar",
+            "Mercedes M-Class"
+        ]
+    },
+    {
+        "question": "In \"Jurassic World\", which company purchases InGen and creates Jurassic World?",
+        "correct_answer": "Masrani Global Corporation ",
+        "choice": [
+            "Masrani Global Corporation ",
+            "Biology Synthetics Technologies",
+            "International Genetics Incorporated",
+            "International Genetic Technologies"
+        ]
+    },
+    {
+        "question": "What three movies, in order from release date, make up the \"Dollars Trilogy\"?",
+        "correct_answer": "\"A Fistful of Dollars\", \"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\"",
+        "choice": [
+            "\"A Fistful of Dollars\", \"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\"",
+            "\"The Good, the Bad, and the Ugly\", \"For A Few Dollars More\", \"A Fistful of Dollars\"",
+            "\"For a Few Dollars More\", \"The Good, the Bad, and the Ugly\", \"A Fistful of Dollars\"",
+            "\"For a Few Dollars More\", \"A Fistful of Dollars\", \"The Good, the Bad, and the Ugly\""
+        ]
+    },
+    {
+        "question": "Which actor plays the character \"Tommy Jarvis\" in \"Friday the 13th: The Final Chapter\" (1984)?",
+        "correct_answer": "Corey Feldman",
+        "choice": [
+            "Corey Feldman",
+            "Macaulay Culkin",
+            "Mel Gibson",
+            "Mark Hamill"
+        ]
+    },
+    {
+        "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+        "correct_answer": "Leonard Nimoy",
+        "choice": [
+            "Leonard Nimoy",
+            "William Shatner",
+            "George Takei",
+            "James Doohan"
+        ]
+    },
+    {
+        "question": "What was the first feature-length computer-animated movie?",
+        "correct_answer": "Toy Story",
+        "choice": [
+            "Toy Story",
+            "Tron",
+            "Lion king",
+            "101 Dalmatians"
+        ]
+    },
+    {
+        "question": "In Big Hero 6, what were Baymax's motions modeled after?",
+        "correct_answer": "Baby penguins",
+        "choice": [
+            "Baby penguins",
+            "Baby monkeys",
+            "Baby ostriches",
+            "Baby bears"
+        ]
+    },
+    {
+        "question": "Which of these Movies was NOT released in 1996?",
+        "correct_answer": "Gladiator",
+        "choice": [
+            "Gladiator",
+            "Independence Day",
+            "The Rock",
+            "Mission: Impossible"
+        ]
+    },
+    {
+        "question": "Which 90's comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",
+        "correct_answer": "Wayne's World",
+        "choice": [
+            "Wayne's World",
+            "Bill & Ted's Excellent Adventure",
+            "Dumb and Dumber",
+            "Austin Powers: International Man of Mystery"
+        ]
+    },
+    {
+        "question": "Which 1994 film did Roger Ebert famously despise, saying \"I hated hated hated hated hated this movie\".",
+        "correct_answer": "North",
+        "choice": [
+            "North",
+            "3 Ninjas Kick Back",
+            "The Santa Clause",
+            "Richie Rich"
+        ]
+    },
+    {
+        "question": "Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?",
+        "correct_answer": "Jean-Claude Van Damme",
+        "choice": [
+            "Jean-Claude Van Damme",
+            "Chuck Norris",
+            "Steven Seagal",
+            "Scott Adkins"
+        ]
+    },
+    {
+        "question": "Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?",
+        "correct_answer": "Bombardier Billy Wells",
+        "choice": [
+            "Bombardier Billy Wells",
+            "Freddie Mills",
+            "Terry Spinks",
+            "Don Cockell"
+        ]
+    },
+    {
+        "question": "Who performed the opening theme song for the James Bond 007 movie \"Goldfinger\"?",
+        "correct_answer": "Shirley Basey",
+        "choice": [
+            "Shirley Basey",
+            "Tom Jones",
+            "John Barry",
+            "Sheena Easton"
+        ]
+    },
+    {
+        "question": "In the film \"Harry Potter and the Order of The Phoenix\", why was Harry Potter's scream, after Sirius Black died, muted?",
+        "correct_answer": "Too Agonizing",
+        "choice": [
+            "Too Agonizing",
+            "Too Loud",
+            "Too Harsh",
+            "Too Violent"
+        ]
+    },
+    {
+        "question": "Which musical artist had a prominent role in the 2017 film \"Kingsman: The Golden Circle\"?",
+        "correct_answer": "Elton John",
+        "choice": [
+            "Elton John",
+            "Lady Gaga",
+            "Rihanna",
+            "Justin Bieber"
+        ]
+    },
+    {
+        "question": "Which Marvel superhero did Chris Evans play prior to his role as Captain America?",
+        "correct_answer": "Human Torch",
+        "choice": [
+            "Human Torch",
+            "Cyclops",
+            "Iceman",
+            "Daredevil"
+        ]
+    },
+    {
+        "question": "The original ending of \"Little Shop Of Horrors\" has the plants taking over the world.",
+        "correct_answer": "True",
+        "choice": [
+            "True",
+            "False"
+        ]
+    }
+]
